@@ -1,0 +1,36 @@
+C:\Users\LOVE_HUYEN\AppData\Local\Temporary Projects\QuanlyLichTiemChung\bin\Debug\QuanlyLichTiemChung.exe.config
+D:\a. ki 1 nam 4\Thi giac may\Baitap\QuanlyLichTiemChung\QuanlyLichTiemChung\bin\Debug\QuanlyLichTiemChung.exe.config
+D:\a. ki 1 nam 4\Thi giac may\Baitap\QuanlyLichTiemChung\QuanlyLichTiemChung\bin\Debug\QuanlyLichTiemChung.exe
+D:\a. ki 1 nam 4\Thi giac may\Baitap\QuanlyLichTiemChung\QuanlyLichTiemChung\bin\Debug\QuanlyLichTiemChung.pdb
+D:\a. ki 1 nam 4\Thi giac may\Baitap\QuanlyLichTiemChung\QuanlyLichTiemChung\obj\Debug\QuanlyLichTiemChung.csprojResolveAssemblyReference.cache
+D:\a. ki 1 nam 4\Thi giac may\Baitap\QuanlyLichTiemChung\QuanlyLichTiemChung\obj\Debug\QuanlyLichTiemChung.Form1.resources
+D:\a. ki 1 nam 4\Thi giac may\Baitap\QuanlyLichTiemChung\QuanlyLichTiemChung\obj\Debug\QuanlyLichTiemChung.Lichtiemchung.resources
+D:\a. ki 1 nam 4\Thi giac may\Baitap\QuanlyLichTiemChung\QuanlyLichTiemChung\obj\Debug\QuanlyLichTiemChung.Properties.Resources.resources
+D:\a. ki 1 nam 4\Thi giac may\Baitap\QuanlyLichTiemChung\QuanlyLichTiemChung\obj\Debug\QuanlyLichTiemChung.csproj.GenerateResource.Cache
+D:\a. ki 1 nam 4\Thi giac may\Baitap\QuanlyLichTiemChung\QuanlyLichTiemChung\obj\Debug\QuanlyLichTiemChung.exe
+D:\a. ki 1 nam 4\Thi giac may\Baitap\QuanlyLichTiemChung\QuanlyLichTiemChung\obj\Debug\QuanlyLichTiemChung.pdb
+D:\a. ki 1 nam 4\Thi giac may\Baitap\QuanlyLichTiemChung\QuanlyLichTiemChung\obj\Debug\QuanlyLichTiemChung.Lichtiemrieng.resources
+D:\a. ki 1 nam 4\Thi giac may\Baitap\QuanlyLichTiemChung\QuanlyLichTiemChung\obj\Debug\QuanlyLichTiemChung.DANGNHAP.resources
+D:\a. ki 1 nam 4\Thi giac may\Baitap\QuanlyLichTiemChung\QuanlyLichTiemChung\obj\Debug\QuanlyLichTiemChung.DanhmucThemKH.resources
+D:\a. ki 1 nam 4\Thi giac may\Baitap\QuanlyLichTiemChung\QuanlyLichTiemChung\obj\Debug\QuanlyLichTiemChung.Baocaohoantatnhac.resources
+D:\a. ki 1 nam 4\Thi giac may\Baitap\QuanlyLichTiemChung\QuanlyLichTiemChung\obj\Debug\QuanlyLichTiemChung.NHACLICH.resources
+D:\a. ki 1 nam 4\Thi giac may\Baitap\QuanlyLichTiemChung\QuanlyLichTiemChung\obj\Debug\QuanlyLichTiemChung.Luutrulichsutiem.resources
+D:\a. ki 1 nam 4\Thi giac may\Baitap\QuanlyLichTiemChung\QuanlyLichTiemChung\obj\Debug\QuanlyLichTiemChung.Maunhaclich.resources
+D:\a. ki 1 nam 4\Thi giac may\Baitap\QuanlyLichTiemChung\QuanlyLichTiemChung\obj\Debug\QuanlyLichTiemChung.Baocaolichsutiemcua1KH.resources
+D:\a. ki 1 nam 4\Thi giac may\Baitap\QuanlyLichTiemChung\QuanlyLichTiemChung\obj\Debug\QuanlyLichTiemChung.QLKhachHang.resources
+D:\a. ki 1 nam 4\phan tich thiet ke he thong\QuanlyLichTiemChung\QuanlyLichTiemChung\obj\Debug\QuanlyLichTiemChung.Baocaohoantatnhac.resources
+D:\a. ki 1 nam 4\phan tich thiet ke he thong\QuanlyLichTiemChung\QuanlyLichTiemChung\obj\Debug\QuanlyLichTiemChung.Baocaolichsutiemcua1KH.resources
+D:\a. ki 1 nam 4\phan tich thiet ke he thong\QuanlyLichTiemChung\QuanlyLichTiemChung\obj\Debug\QuanlyLichTiemChung.Chucnanglichchung.resources
+D:\a. ki 1 nam 4\phan tich thiet ke he thong\QuanlyLichTiemChung\QuanlyLichTiemChung\obj\Debug\QuanlyLichTiemChung.Luutrulichsutiem.resources
+D:\a. ki 1 nam 4\phan tich thiet ke he thong\QuanlyLichTiemChung\QuanlyLichTiemChung\obj\Debug\QuanlyLichTiemChung.Lichchung.resources
+D:\a. ki 1 nam 4\phan tich thiet ke he thong\QuanlyLichTiemChung\QuanlyLichTiemChung\obj\Debug\QuanlyLichTiemChung.Maunhaclich.resources
+D:\a. ki 1 nam 4\phan tich thiet ke he thong\QuanlyLichTiemChung\QuanlyLichTiemChung\obj\Debug\QuanlyLichTiemChung.NHACLICH.resources
+D:\a. ki 1 nam 4\phan tich thiet ke he thong\QuanlyLichTiemChung\QuanlyLichTiemChung\obj\Debug\QuanlyLichTiemChung.DANGNHAP.resources
+D:\a. ki 1 nam 4\phan tich thiet ke he thong\QuanlyLichTiemChung\QuanlyLichTiemChung\obj\Debug\QuanlyLichTiemChung.DanhmucThemKH.resources
+D:\a. ki 1 nam 4\phan tich thiet ke he thong\QuanlyLichTiemChung\QuanlyLichTiemChung\obj\Debug\QuanlyLichTiemChung.Form1.resources
+D:\a. ki 1 nam 4\phan tich thiet ke he thong\QuanlyLichTiemChung\QuanlyLichTiemChung\obj\Debug\QuanlyLichTiemChung.Lichtiemchung.resources
+D:\a. ki 1 nam 4\phan tich thiet ke he thong\QuanlyLichTiemChung\QuanlyLichTiemChung\obj\Debug\QuanlyLichTiemChung.Lichtiemrieng.resources
+D:\a. ki 1 nam 4\phan tich thiet ke he thong\QuanlyLichTiemChung\QuanlyLichTiemChung\obj\Debug\QuanlyLichTiemChung.QLKhachHang.resources
+D:\a. ki 1 nam 4\phan tich thiet ke he thong\QuanlyLichTiemChung\QuanlyLichTiemChung\obj\Debug\QuanlyLichTiemChung.csproj.GenerateResource.Cache
+D:\a. ki 1 nam 4\phan tich thiet ke he thong\QuanlyLichTiemChung\QuanlyLichTiemChung\bin\Debug\QuanlyLichTiemChung.exe.config
+D:\a. ki 1 nam 4\phan tich thiet ke he thong\QuanlyLichTiemChung\QuanlyLichTiemChung\obj\Debug\QuanlyLichTiemChung.csprojResolveAssemblyReference.cache
